@@ -40,3 +40,10 @@ coverage
 document/.source
 
 projects/app/worker/
+/fastgpt-minio/
+/milvus-minio/
+/aiproxy_pg/
+/mongo/
+/config.json
+/docker-compose.yml
+/milvus/
