@@ -47,3 +47,4 @@ projects/app/worker/
 /config.json
 /docker-compose.yml
 /milvus/
+/redis/
